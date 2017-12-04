@@ -38,6 +38,10 @@ android {
         compileSdkVersion 26
 
     buildToolsVersion "26.0.1"
+	
+	aaptOptions {  
+                cruncherEnabled = false  
+    } 
 
     defaultConfig {
         minSdkVersion 14
