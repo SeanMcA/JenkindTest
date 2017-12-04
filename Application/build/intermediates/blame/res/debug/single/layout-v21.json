@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\bee6a76a514a0c19ced49929b68c65ac9425d928\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\bee6a76a514a0c19ced49929b68c65ac9425d928\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\bee6a76a514a0c19ced49929b68c65ac9425d928\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\bee6a76a514a0c19ced49929b68c65ac9425d928\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

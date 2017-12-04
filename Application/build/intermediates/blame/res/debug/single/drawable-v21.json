@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\bee6a76a514a0c19ced49929b68c65ac9425d928\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

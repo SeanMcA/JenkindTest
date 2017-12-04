@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:20:1-47:12
+	package
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:22:5-49
+	android:versionName
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:21:5-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:28:22-76
+application
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:30:5-46:19
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b54ffa823bddd0061ad6accc05bdd8ec2b4638e2\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b91d479c71f8bfe0a60d52ba1d1aa0cc0747fab2\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\461af6e40521080fc261e5ce6c8b1d9002769366\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sitting-room\.android\build-cache\191d2037eb0b39ebb155932292473174bbb9cca4\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sitting-room\.android\build-cache\0a84bfd92dfc1576a8ac687f500d8614f2b6366c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sitting-room\.android\build-cache\44b73583dd30eaed70113fcd59d691e32f88e832\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sitting-room\.android\build-cache\88327be468b396c894372104ab3ae5565f912d33\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sitting-room\.android\build-cache\c967babc3b56791ff041dc87c4da9877da75a286\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sitting-room\.android\build-cache\efd274fa0e28d18af1f284bc0914652e2602a628\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sitting-room\.android\build-cache\6e7204b26c9680785cf0529d59bc1e073a701692\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sitting-room\.android\build-cache\bee6a76a514a0c19ced49929b68c65ac9425d928\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sitting-room\.android\build-cache\8eff88b67ae40a61fc7981de23db996df82c625b\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:32:9-45
+	android:networkSecurityConfig
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:35:9-69
+	android:theme
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:33:9-44
+activity#com.example.android.networkconnect.MainActivity
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:38:13-45
+	android:uiOptions
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:37:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b54ffa823bddd0061ad6accc05bdd8ec2b4638e2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b91d479c71f8bfe0a60d52ba1d1aa0cc0747fab2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\461af6e40521080fc261e5ce6c8b1d9002769366\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sitting-room\.android\build-cache\191d2037eb0b39ebb155932292473174bbb9cca4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sitting-room\.android\build-cache\0a84bfd92dfc1576a8ac687f500d8614f2b6366c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sitting-room\.android\build-cache\44b73583dd30eaed70113fcd59d691e32f88e832\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sitting-room\.android\build-cache\88327be468b396c894372104ab3ae5565f912d33\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sitting-room\.android\build-cache\c967babc3b56791ff041dc87c4da9877da75a286\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sitting-room\.android\build-cache\efd274fa0e28d18af1f284bc0914652e2602a628\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sitting-room\.android\build-cache\6e7204b26c9680785cf0529d59bc1e073a701692\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sitting-room\.android\build-cache\bee6a76a514a0c19ced49929b68c65ac9425d928\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sitting-room\.android\build-cache\8eff88b67ae40a61fc7981de23db996df82c625b\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\461af6e40521080fc261e5ce6c8b1d9002769366\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\AndroidStudioProjects\JenkindTest\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b54ffa823bddd0061ad6accc05bdd8ec2b4638e2\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b91d479c71f8bfe0a60d52ba1d1aa0cc0747fab2\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\461af6e40521080fc261e5ce6c8b1d9002769366\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sitting-room\.android\build-cache\191d2037eb0b39ebb155932292473174bbb9cca4\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sitting-room\.android\build-cache\0a84bfd92dfc1576a8ac687f500d8614f2b6366c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sitting-room\.android\build-cache\44b73583dd30eaed70113fcd59d691e32f88e832\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sitting-room\.android\build-cache\88327be468b396c894372104ab3ae5565f912d33\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sitting-room\.android\build-cache\c967babc3b56791ff041dc87c4da9877da75a286\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sitting-room\.android\build-cache\efd274fa0e28d18af1f284bc0914652e2602a628\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sitting-room\.android\build-cache\6e7204b26c9680785cf0529d59bc1e073a701692\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sitting-room\.android\build-cache\bee6a76a514a0c19ced49929b68c65ac9425d928\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b54ffa823bddd0061ad6accc05bdd8ec2b4638e2\output\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:26.1.0] C:\Users\sitting-room\.android\build-cache\b54ffa823bddd0061ad6accc05bdd8ec2b4638e2\output\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sitting-room\.android\build-cache\8eff88b67ae40a61fc7981de23db996df82c625b\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sitting-room\.android\build-cache\8eff88b67ae40a61fc7981de23db996df82c625b\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sitting-room\.android\build-cache\8eff88b67ae40a61fc7981de23db996df82c625b\output\AndroidManifest.xml:26:13-58
