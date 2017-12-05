@@ -164,12 +164,12 @@
         "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",

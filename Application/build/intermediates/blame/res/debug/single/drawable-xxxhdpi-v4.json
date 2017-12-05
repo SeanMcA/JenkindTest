@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",

@@ -11855,9 +11855,9 @@
                     "startLine": 1942,
                     "startColumn": 4,
                     "startOffset": 140190,
-                    "endLine": 1947,
+                    "endLine": 1946,
                     "endColumn": 12,
-                    "endOffset": 140463
+                    "endOffset": 140401
                 },
                 "from": {
                     "file": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\src\\main\\res\\values\\template-styles.xml",
@@ -11865,9 +11865,9 @@
                         "startLine": 34,
                         "startColumn": 4,
                         "startOffset": 1109,
-                        "endLine": 39,
+                        "endLine": 38,
                         "endColumn": 12,
-                        "endOffset": 1387
+                        "endOffset": 1324
                     }
                 }
             }

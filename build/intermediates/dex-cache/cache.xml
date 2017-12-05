@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\bee6a76a514a0c19ced49929b68c65ac9425d928\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_71c67c82a2738942b589bf026786b143e287fa64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\c967babc3b56791ff041dc87c4da9877da75a286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_17a31e26b096e43b7ac303b175974081975cf0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\461af6e40521080fc261e5ce6c8b1d9002769366\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_0c021d347f231ea8e99b0702e732d9222ee52822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_f95a86d08455911d175b185328d172bd7dd491e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\6e7204b26c9680785cf0529d59bc1e073a701692\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_432a651186cc8d7f460ebb29794010cbab08dd3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\8eff88b67ae40a61fc7981de23db996df82c625b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_a2b8ca2304cf79ad0a2e0a26b1cfd01913ebcecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\b91d479c71f8bfe0a60d52ba1d1aa0cc0747fab2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_75c0a07f826c4e8332e76a403f98bb6355308ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\88327be468b396c894372104ab3ae5565f912d33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_61169c3150596e3b37be981537756102b4a7d806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\efd274fa0e28d18af1f284bc0914652e2602a628\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_7c381aa77d4d83987abae16d3ba638ebf8bbd68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\44b73583dd30eaed70113fcd59d691e32f88e832\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_ca5e68a29c44700fe71c5a3145f9b1b82cf334d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\0a84bfd92dfc1576a8ac687f500d8614f2b6366c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_5e991a3b3708efb0938020d30c90bb95b01b4847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\common-1.0.0_68ed94d5dc146244107342a66a47f10f07fb7912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\b54ffa823bddd0061ad6accc05bdd8ec2b4638e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_a794921c64539f5d598979ca18f6dccb770a2f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\common-1.0.0_9119ec9cb9e2f6099f134a10cd14d75a35d39827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sitting-room\.android\build-cache\191d2037eb0b39ebb155932292473174bbb9cca4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Code\AndroidStudioProjects\JenkindTest\Application\build\intermediates\pre-dexed\debug\classes_19ec2f7e319a5754d074b6b9711fba258a8629d8.jar" />
+    </item>
+
+</items>

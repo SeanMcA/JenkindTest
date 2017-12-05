@@ -52,12 +52,12 @@
         "source": "C:\\Users\\sitting-room\\.android\\build-cache\\bee6a76a514a0c19ced49929b68c65ac9425d928\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\sitting-room\\.android\\build-cache\\461af6e40521080fc261e5ce6c8b1d9002769366\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Code\\AndroidStudioProjects\\JenkindTest\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",

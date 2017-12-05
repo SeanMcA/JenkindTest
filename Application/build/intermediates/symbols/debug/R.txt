@@ -597,13 +597,12 @@ int drawable notification_bg_low_pressed 0x7f020058
 int drawable notification_bg_normal 0x7f020059
 int drawable notification_bg_normal_pressed 0x7f02005a
 int drawable notification_icon_background 0x7f02005b
-int drawable notification_template_icon_bg 0x7f020061
-int drawable notification_template_icon_low_bg 0x7f020062
+int drawable notification_template_icon_bg 0x7f020060
+int drawable notification_template_icon_low_bg 0x7f020061
 int drawable notification_tile_bg 0x7f02005c
 int drawable notify_panel_notification_icon_bg 0x7f02005d
-int drawable tile 0x7f02005e
-int drawable tooltip_frame_dark 0x7f02005f
-int drawable tooltip_frame_light 0x7f020060
+int drawable tooltip_frame_dark 0x7f02005e
+int drawable tooltip_frame_light 0x7f02005f
 int id ALT 0x7f0b0038
 int id CTRL 0x7f0b0039
 int id FUNCTION 0x7f0b003a
